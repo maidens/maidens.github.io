@@ -128,7 +128,7 @@ We see that the polynomial basis functions can easily interpolate the cubic func
 
 # Kriging   
 
-Kriging, or Gaussian process regression, is a method that performs an optimal interpolation based on a statistical prior over possible functions. It is often assumed that the values \\( y = f(x) \\) are produced from a Gaussian process \\( Y(x) \\) with mean 0 and known covariance \\( Cov(Y(x), Y(z)) = c(x, z) \\). The optimal basis functions can be computed in terms of the convariance \\(c\\) using the formula
+Kriging, or Gaussian process regression, is a method that performs an optimal interpolation based on a statistical prior over possible functions. It is often assumed that the values \\( y = f(x) \\) are produced from a Gaussian process \\( Y(x) \\) with mean 0 and known covariance \\( Cov(Y(x), Y(z)) = c(x, z) \\). The optimal basis functions can be computed in terms of the covariance \\(c\\) using the formula
 \\[
 \begin{bmatrix}
 \varphi_1(x) \\\ \vdots \\\ \varphi_n(x)
