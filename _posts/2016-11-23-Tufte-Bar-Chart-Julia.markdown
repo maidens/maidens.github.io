@@ -175,9 +175,9 @@ There we go!
 
 We can now use what we created to visualize a data set. Here are the student ratings of my teaching as a TA for EE 120: Signals and Systems at UC Berkeley in the Fall 2015 semester. 
 
-<img width="340" src="/figs/tufte/effectiveness.svg"> 
-<img width="340" src="/figs/tufte/effectively.svg"> 
-<img width="340" src="/figs/tufte/accurately.svg"> 
+<img width="300" src="/figs/tufte/effectiveness.svg"> 
+<img width="300" src="/figs/tufte/effectively.svg"> 
+<img width="300" src="/figs/tufte/accurately.svg"> 
 
 <img width="340" src="/figs/tufte/difficulty.svg"> 
 <img width="340" src="/figs/tufte/discussion.svg"> 
