@@ -25,7 +25,7 @@ For reference, Tufte's redesign is shown below.
 
 ## Bar charts in Julia using Gadfly 
 
-Gadfly is an awesome Julia package that I have been using recently for to produce the majority of my scientific visualizations. It is based on Leland Wilkinson's book The [Grammar of Graphics](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html) and Hadley Wickhams's [ggplot2](http://ggplot2.org/) for the R programming language. By default it produces some pretty nice bar charts, but also provides many opportunities for customization.  
+Gadfly is an awesome Julia package that I have been using recently to produce the majority of my scientific visualizations. It is based on Leland Wilkinson's book The [Grammar of Graphics](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html) and Hadley Wickhams's [ggplot2](http://ggplot2.org/) for the R programming language. By default it produces some pretty nice bar charts, but also provides many opportunities for customization.  
 
 
 {% highlight julia %}
