@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="90mm" height="90mm" viewBox="0 0 90 90"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-0e882d9a-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-0e882d9a-2">
+    <text x="49.65" y="80.06" text-anchor="middle" dy="0.6em">x</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-0e882d9a-3">
+    <text x="16.3" y="74.01" text-anchor="middle" dy="0.6em">0</text>
+    <text x="27.42" y="74.01" text-anchor="middle" dy="0.6em">1</text>
+    <text x="38.53" y="74.01" text-anchor="middle" dy="0.6em">2</text>
+    <text x="49.65" y="74.01" text-anchor="middle" dy="0.6em">3</text>
+    <text x="60.77" y="74.01" text-anchor="middle" dy="0.6em">4</text>
+    <text x="71.88" y="74.01" text-anchor="middle" dy="0.6em">5</text>
+    <text x="83" y="74.01" text-anchor="middle" dy="0.6em">6</text>
+  </g>
+<g clip-path="url(#img-0e882d9a-4)">
+  <g id="img-0e882d9a-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-0e882d9a-6">
+      <rect x="14.3" y="10.58" width="70.7" height="62.43"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-0e882d9a-7">
+      <path fill="none" d="M14.3,71.01 L 85 71.01"/>
+      <path fill="none" d="M14.3,56.4 L 85 56.4"/>
+      <path fill="none" d="M14.3,41.8 L 85 41.8"/>
+      <path fill="none" d="M14.3,27.19 L 85 27.19"/>
+      <path fill="none" d="M14.3,12.58 L 85 12.58"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-0e882d9a-8">
+      <path fill="none" d="M16.3,10.58 L 16.3 73.01"/>
+      <path fill="none" d="M27.42,10.58 L 27.42 73.01"/>
+      <path fill="none" d="M38.53,10.58 L 38.53 73.01"/>
+      <path fill="none" d="M49.65,10.58 L 49.65 73.01"/>
+      <path fill="none" d="M60.77,10.58 L 60.77 73.01"/>
+      <path fill="none" d="M71.88,10.58 L 71.88 73.01"/>
+      <path fill="none" d="M83,10.58 L 83 73.01"/>
+    </g>
+    <g class="plotpanel" id="img-0e882d9a-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-0e882d9a-10">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#00BFFF" class="geometry" id="img-0e882d9a-11">
+          <rect x="21.83" y="71.01" width="11.17" height="0.01"/>
+          <rect x="32.95" y="63.71" width="11.17" height="7.3"/>
+          <rect x="44.07" y="63.71" width="11.17" height="7.3"/>
+          <rect x="55.18" y="19.89" width="11.17" height="51.13"/>
+          <rect x="66.3" y="27.19" width="11.17" height="43.82"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-0e882d9a-12">
+    <text x="13.3" y="71.01" text-anchor="end" dy="0.35em">0</text>
+    <text x="13.3" y="56.4" text-anchor="end" dy="0.35em">2</text>
+    <text x="13.3" y="41.8" text-anchor="end" dy="0.35em">4</text>
+    <text x="13.3" y="27.19" text-anchor="end" dy="0.35em">6</text>
+    <text x="13.3" y="12.58" text-anchor="end" dy="0.35em">8</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-0e882d9a-13">
+    <text x="8.73" y="41.8" text-anchor="end" dy="0.35em">y</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-0e882d9a-14">
+    <text x="49.65" y="5" text-anchor="middle" dy="0.6em">Rate the T.A.'s overall teaching effectiveness</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-0e882d9a-4">
+  <path d="M14.3,10.58 L 85 10.58 85 73.01 14.3 73.01" />
+</clipPath>
+</defs>
+</svg>
