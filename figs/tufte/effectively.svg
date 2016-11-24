@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="90mm" height="90mm" viewBox="0 0 90 90"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g stroke="#000000" stroke-opacity="0.000" fill="#FFFFFF" id="img-d8077ba6-1">
+  <rect x="0" y="0" width="90" height="90"/>
+</g>
+<g class="plotroot xscalable yscalable" id="img-d8077ba6-2">
+  <g class="guide xlabels" font-size="2.82" font-family="Gill Sans" fill="#6C606B" id="img-d8077ba6-3">
+    <text x="19.67" y="82.03" text-anchor="middle" dy="0.6em">1</text>
+    <text x="32.33" y="82.03" text-anchor="middle" dy="0.6em">2</text>
+    <text x="45" y="82.03" text-anchor="middle" dy="0.6em">3</text>
+    <text x="57.67" y="82.03" text-anchor="middle" dy="0.6em">4</text>
+    <text x="70.33" y="82.03" text-anchor="middle" dy="0.6em">5</text>
+  </g>
+<g clip-path="url(#img-d8077ba6-4)">
+  <g id="img-d8077ba6-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-d8077ba6-6">
+      <rect x="5" y="10.57" width="80" height="70.46"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0" stroke="#D0D0E0" id="img-d8077ba6-7">
+      <path fill="none" d="M19.67,10.57 L 19.67 81.03"/>
+      <path fill="none" d="M32.33,10.57 L 32.33 81.03"/>
+      <path fill="none" d="M45,10.57 L 45 81.03"/>
+      <path fill="none" d="M57.67,10.57 L 57.67 81.03"/>
+      <path fill="none" d="M70.33,10.57 L 70.33 81.03"/>
+    </g>
+    <g class="plotpanel" id="img-d8077ba6-8">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-d8077ba6-9">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#D3D3D3" class="geometry" id="img-d8077ba6-10">
+          <rect x="17.74" y="79.03" width="3.85" height="0.01"/>
+          <rect x="30.41" y="72.38" width="3.85" height="6.65"/>
+          <rect x="43.08" y="59.09" width="3.85" height="19.94"/>
+          <rect x="55.74" y="39.15" width="3.85" height="39.87"/>
+          <rect x="68.41" y="45.8" width="3.85" height="33.23"/>
+        </g>
+      </g>
+    </g>
+    <g class="geometry" id="img-d8077ba6-11">
+      <g stroke-width="0.35" stroke="#FFFFFF" fill="#000000" fill-opacity="0.000" id="img-d8077ba6-12">
+        <path fill="none" d="M7,25.86 L 83 25.86"/>
+      </g>
+    </g>
+    <g class="geometry" id="img-d8077ba6-13">
+      <g stroke-width="0.35" stroke="#FFFFFF" fill="#000000" fill-opacity="0.000" id="img-d8077ba6-14">
+        <path fill="none" d="M7,39.15 L 83 39.15"/>
+      </g>
+    </g>
+    <g class="geometry" id="img-d8077ba6-15">
+      <g stroke-width="0.35" stroke="#FFFFFF" fill="#000000" fill-opacity="0.000" id="img-d8077ba6-16">
+        <path fill="none" d="M7,52.44 L 83 52.44"/>
+      </g>
+    </g>
+    <g class="geometry" id="img-d8077ba6-17">
+      <g stroke-width="0.35" stroke="#FFFFFF" fill="#000000" fill-opacity="0.000" id="img-d8077ba6-18">
+        <path fill="none" d="M7,65.73 L 83 65.73"/>
+      </g>
+    </g>
+    <g class="geometry" id="img-d8077ba6-19">
+      <g stroke-width="0.71" stroke="#D3D3D3" fill="#000000" fill-opacity="0.000" id="img-d8077ba6-20">
+        <path fill="none" d="M13.33,79.03 L 76.67 79.03"/>
+      </g>
+    </g>
+  </g>
+</g>
+  <g font-size="3.88" font-family="Gill Sans" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-d8077ba6-21">
+    <text x="45" y="5" text-anchor="middle" dy="0.6em">Communicates ideas effectively</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-d8077ba6-4">
+  <path d="M5,10.57 L 85 10.57 85 81.03 5 81.03" />
+</clipPath>
+</defs>
+</svg>
